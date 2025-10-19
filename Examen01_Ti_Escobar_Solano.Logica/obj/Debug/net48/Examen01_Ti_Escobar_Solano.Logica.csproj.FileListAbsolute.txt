@@ -1,0 +1,9 @@
+C:\Users\Joel\Desktop\Trabajo\Examen01_Ti_Escobar_Solano\Examen01_Ti_Escobar_Solano.Logica\obj\Debug\net48\Examen01_Ti_Escobar_Solano.Logica.csproj.AssemblyReference.cache
+C:\Users\Joel\Desktop\Trabajo\Examen01_Ti_Escobar_Solano\Examen01_Ti_Escobar_Solano.Logica\obj\Debug\net48\Examen01_Ti_Escobar_Solano.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\Desktop\Trabajo\Examen01_Ti_Escobar_Solano\Examen01_Ti_Escobar_Solano.Logica\obj\Debug\net48\Examen01_Ti_Escobar_Solano.Logica.AssemblyInfoInputs.cache
+C:\Users\Joel\Desktop\Trabajo\Examen01_Ti_Escobar_Solano\Examen01_Ti_Escobar_Solano.Logica\obj\Debug\net48\Examen01_Ti_Escobar_Solano.Logica.AssemblyInfo.cs
+C:\Users\Joel\Desktop\Trabajo\Examen01_Ti_Escobar_Solano\Examen01_Ti_Escobar_Solano.Logica\obj\Debug\net48\Examen01_Ti_Escobar_Solano.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Joel\Desktop\Trabajo\Examen01_Ti_Escobar_Solano\Examen01_Ti_Escobar_Solano.Logica\bin\Debug\net48\Examen01_Ti_Escobar_Solano.Logica.dll
+C:\Users\Joel\Desktop\Trabajo\Examen01_Ti_Escobar_Solano\Examen01_Ti_Escobar_Solano.Logica\bin\Debug\net48\Examen01_Ti_Escobar_Solano.Logica.pdb
+C:\Users\Joel\Desktop\Trabajo\Examen01_Ti_Escobar_Solano\Examen01_Ti_Escobar_Solano.Logica\obj\Debug\net48\Examen01_Ti_Escobar_Solano.Logica.dll
+C:\Users\Joel\Desktop\Trabajo\Examen01_Ti_Escobar_Solano\Examen01_Ti_Escobar_Solano.Logica\obj\Debug\net48\Examen01_Ti_Escobar_Solano.Logica.pdb
